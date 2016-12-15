@@ -1,0 +1,7 @@
+= SocialCredit
+
+This is a repository for discussing an idea tentatively titled Social Credit Rating. It is intended as:
+
+"an always-on coach to help your daily economic decisions reflect both your social values and the realities of your life."
+
+The initial visioning and discussion is on the wiki, for ease of editing. 
