@@ -5,3 +5,11 @@ This is a repository for discussing an idea tentatively titled Social Credit Rat
 "an always-on coach to help your daily economic decisions reflect both your social values and the realities of your life."
 
 The initial visioning and discussion is on the https://github.com/CharlesTBetz/SocialCredit/wiki[wiki], for ease of editing. 
+
+== What doesn't work:
+
+image::https://github.com/CharlesTBetz/SocialCredit/blob/master/img/SocCred.png[]
+
+== What could work:
+
+image::https://github.com/CharlesTBetz/SocialCredit/blob/master/img/SocCred2.png[]
