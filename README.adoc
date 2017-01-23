@@ -14,5 +14,40 @@ image::https://github.com/CharlesTBetz/SocialCredit/blob/master/img/SocCred.png[
 
 image::https://github.com/CharlesTBetz/SocialCredit/blob/master/img/SocCred2.png[]
 
-Go to the https://github.com/CharlesTBetz/SocialCredit/wiki[wiki], for more information (currently 2 pages of writeup).
+= Overview
+
+Social Credit Rating is a working name for this project. This initiative is intended to function as:
+
+_An always-on coach to help your daily economic decisions reflect your social values within the realities of your life._
+
+== Rationale
+
+In December 2016, progressive electoral politics is in crisis. The prospects for Democrats in 2018 are doubly grim: 1) it is a interim, non-presidential year which depresses Democratic turnout and 2) the Senate map is so bleak that a http://www.politico.com/story/2016/11/senate-democrats-2018-midterms-231516[filibuster-proof Republican Senate majority] is a realistic possibility. More broadly, the U.S. electoral system is structurally unsound, with a wide array of failures and weaknesses up to and including allegations of direct manipulation.
+
+Much has been written on the U.S. political situation and will not be repeated here. The starting point for this initiative is how we have reached this dire situation: as always, "follow the money." The book https://www.amazon.com/Dark-Money-History-Billionaires-Radical/dp/0385535597[Dark Money] is essential background reading. The policy preferences of the wealthiest Republican donors are http://www.salon.com/2016/12/11/big-republican-donors-are-even-more-extreme-than-their-party-and-they-drive-its-agenda/[considerably to the right of even mainstream Republicans]. In short, money buys power and the billions of dollars concentrated in the hands of extreme right interests led directly to the situation that we find ourselves today.
+
+One can argue whether increasing inequality and political tyranny are inevitable outcomes of capitalism, or just the variation of American capitalism we face. I'm agnostic on this topic. The pressing question is one of strategy and action. If right-wing billionaires are taking control of our political democracy, is there some way to reduce their economic base of power? 
+
+The progressive movement is not without assets. I believe that a large majority of progressive people in the United States are aghast at the current situation and fearful for their families' future. This popular mass represents a considerable base of intelligent, motivated individuals with both talent and significant economic surplus at their disposal. The problem is that, other than the electoral system, the avenues for collective action are fragmented into a wide array of interest groups. These groups can be effective on point issues, but (especially since the decline of the labor unions) there has been no broad-based, countervailing, general-interest force outside of the Democratic Party. 
+
+According to Wikipedia, the U.S. economy is currently $16.78 trillion, of which roughly 70% is consumer-driven. This represents a massive leverage point of up to $12 trillion. Indeed, "vote with your dollar" is an old concept and, while boycotts have occasionally been effective tactically, as a stand-alone strategy they rarely resulted in structural change. (A notable counterexample: the boycotts against South African apartheid in the 1960s grew into 1980s divestment campaigns and finally international sanctions that created a progressive leap forward in the region.)  However, it seems that a number of factors may be converging to increase potential effectiveness of a progressive, consumer-driven approach to eroding the power of the politically-extreme, wealthy Right. 
+
+*I propose building a state of the art platform based on social media, mobile technology, and data analytics, using current neuroscience and behavioral economics, with cutting edge user experience design, to help people guide their everyday financial choices in an integrated fashion toward expression of their progressive values.* 
+
+Think about the potential. If millions of people were being https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X[nudged] on a daily, weekly, or monthly basis to make even marginally better decisions for the sake of the planet and society, that would start to add up into real impacts. Product lines sales, retail traffic, and stock prices would move according to the values of the app users. *We exert continuous, sustained pressure on the economy itself, and hit the Right where it hurts, through the daily decisions of millions of consumers who need to do nothing more than seek guidance from this easy-to-use app.* 
+
+This effort would be run with modern digital http://dm-academy.github.io/aitm/aitm-instructor.html#_chapter_4_product_management[product development techniques], focusing on value, usability, and feasibility. It may well be that there are fatal flaws. After thinking about the idea for about two years and discussing it with a wide variety of intelligent and credentialed people, I have yet to find any. I think the idea is at least worth placing a bet on.
+
+The current situation is grave. We owe it to ourselves and our families to explore all options. Please have a look at the more detailed approach discussion in the https://github.com/CharlesTBetz/SocialCredit/wiki/Approach[remaining pages], and let me know what you think. 
+
+== Background reading
+
+* http://www.progressivestoday.com/are-you-a-good-citizen-china-to-issue-its-people-a-social-rating-based-on-collection-of-big-data/
+
+* http://www.alternet.org/culture/how-guide-christian-oriented-retailers-could-backfire-big-time
+
+* http://www.nytimes.com/2016/12/07/business/dealbook/automated-assistants-will-soon-make-a-bid-for-your-finances.html?smprod=nytcore-iphone&smid=nytcore-iphone-share
+
+
+ 
 
