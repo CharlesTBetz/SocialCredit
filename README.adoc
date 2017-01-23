@@ -49,5 +49,169 @@ The current situation is grave. We owe it to ourselves and our families to explo
 * http://www.nytimes.com/2016/12/07/business/dealbook/automated-assistants-will-soon-make-a-bid-for-your-finances.html?smprod=nytcore-iphone&smid=nytcore-iphone-share
 
 
+== Key assumptions
+
+There are distinctions within the 1%. Some are extreme right wingers who appear to favor a single-party state in the US, with no controls on corporate power, and no social safety net. Charles and David Koch and their network of right wing political funds are perhaps the pre-eminent example. Other economic leaders are more benign: Warren Buffet, Bill Gates, Elon Musk. At a corporate level, some corporations do take courageous stands on issues like LGBT recognition, and are attacked from the Right for doing this. Also, there are local alternatives to be supported in many cities. 
+
+We can quantify a social credit rating for the business organization aggregating and reflecting their values. It will be a 300-900 point score just like consumer credit rating. The app would cover both channel (e.g. Target the retailer) as well as product (e.g. Pringle's potato chips). By enabling people to easily apply the credit rating to their daily economic decisions, we would start to drive and exploit divisions among the wealthy, through exerting leverage via the channel they understand best.
+
+A company with a poor history of union issues, but a strong LGBT stance, is still preferable to patronize compared to a company that is bad on both, and sometimes the consumer has to choose between those limited options. Oil companies are bad, but they can be ranked as well. Perhaps it's better to buy gas at a Shell or BP station, or a local provider, and avoid the Exxon station down the street. But without analytics and a feedback mechanism, the consumer is powerless. 
+
+The market economy requires certain information to function. Business agreements, valuations, partnerships, lawsuits, changes of ownership, and so forth are often known. To a large degree, the "free market" system cannot fight the strategy suggested here without disabling itself. And lack of transparency itself could be a factor contributing to a corporation's negative score.
+
+== Core hypothesis 
+
+* 65.8 million: Clinton popular vote
+* 13.2 million: Sanders primary vote
+* 156.5 million: Facebook US users
+* 67 million: Twitter US users
+* 70-100 million: Monthly Huffingtonpost.com readers
+* 1.7 million: Monthly users of REI.com
+
+Social applications and ecommerce are major social forces. High-income, professional, and progressively-minded people almost universally use Internet channels. The aggregated economic decisions of even 20 million consumers, if nudged towards an end, could have a big impact on the market. Competition at the margins could drive corporate behavior. P&L managers struggling for that 0.25 basis point increase might lose bonuses. Sales losses could start to move stock valuations and bring pressure to bear where it hurts. If extreme right wingers are propping up their companies, they won't be able to spend as much buying politicians. 
+
+== The problem with "vote with your dollar."
+
+* “I try to shop responsibly but it’s so hard"
+* “It’s too complicated to keep track of who is evil & what I should avoid & what I can buy"
+* “Sometimes I’ve got no choice but to go to Wal-Mart"
+* "Scan barcodes with my phone in the grocery store? With a screaming toddler in the cart and 15 minutes to pick up my husband? Are you KIDDING?"
+* OK so I read http://www.informationclearinghouse.info/article24827.htm[this article] and decide to boycott FedEx... but does that mean I should use UPS? 
+* Or are both https://www.amazon.com/Big-Brown-Lie-Services-Teamster/dp/0971869723[equally bad]?
+* What if the Postal Service is not a choice?
+* If not a perfect decision, *how can we at least make a better one*?? 
+
+== Scenario
+
+So, you shop somewhere. Or you buy a product you haven't seen before. The business you just patronized thinks they have a “new customer” and they value this highly. Creating new customers is expensive, 7x more than retaining a customer. However, you get an email from the app saying, “We noticed you purchased X from Y. Did you know…"
+
+You advise the merchant (or not) of your intent not to do further business w/them. A simple button press will do it. 
+
+Or, you can ask the app to examine a potential purchase, just as Evernote can clip, you could clip a potential page with your purchases teed up and get feedback in a few minutes on the implications of your purchases. Or right click on a product or brand in a browser.
+
+Looking for a coffee shop? Let the app know. "Starbucks is right here, but I recommend a locally owned shop half a block further down." Pull into a local Exxon? "There is a locally-owned gas station that sources from Shell two blocks down." 
+
+== User stories:
+
+* I have to choose regularly between shopping at Target and Walmart. I have no other options. I want quick and simple guidance, given my values. Are both equally  bad? How can I know? What about Perkins versus Waffle House? Or Coke and Pepsi? Starbucks versus a local coffee shop?
+
+* I don't want to worry about making the best choice when I'm in the midst of a busy day. But I would be interested in getting feedback as to how I am doing. For example, what are the top 3 things I could stop buying (or places I could stop patronizing) to improve my score?
+
+* I might be interested in various entertaining incentives (gamification). For example, if my decisions changed to route my money away from Koch Industries, I might get points to a "Koch-busters" leader-board. Winners of various leader boards would get coupons and discounts from more progressive retailers (such as featured in donegood.co). 
+
+
+== Values
+
+
+
+In order to calculate a scalar credit rating, the application must be based on a clear set of values. Consumer credit ratings are based on a set of values such as "paying off debt reliably is good" and "seeking credit is bad." A basic set of values for this app might be:
+
+* Human existence is a good thing
+* The human race is worth saving
+* We should seek the greatest good of the greatest number
+* The UN http://www.un.org/en/universal-declaration-human-rights/[Universal Declaration of Human Rights] is a good starting point
+* Education and freedom of the press are critical for democracy
+* Global warming is an existential threat
+* Wealth and income inequality have reached unacceptable ratios
+* The US has an unpaid debt to its black citizens
+* The human race thrives when women are empowered
+* Racism, sexism, homophobia, and other forms of structural oppression are to be opposed
+
+We are opposed to:
+
+* The Republican Party of the US and its supporters
+* Charles and David Koch and their political network
+
+In order for the app to work, we will have to quantify these values. Additionally, the application could be parameterized - people can tune for non-core concerns. Personally, I consider gun control and animal rights to be non-core; I have seen both of these issues divide progressives too many times. In the US, we need to be able to make common cause on the environment with hunters. Ultimately, some credible steering committee would be required to steward the core values and how they are translated into an algorithm.
+
+_Personal note: I was involved with the early Green Party platform. This ultimately resulted in far too lengthy and non-actionable work. This app will not get bogged down in minutiae. In my view, there is great value in a simple set of core values, and diminishing value in extensive, speculative policy formulation. If possible, the app's values should be based on existing value sets such as the http://www.un.org/en/universal-declaration-human-rights/[UN UDHR]._
+
+As far as the SocialCredit app is concerned economic decisions, there are no singular fatal flaws for either the customer or the corporation. Reality is multi-dimensional and the aggregrate rating reflects a wide variety of concerns, just like your consumer credit rating is based on multiple factors. Scoring is weighted and aggregated with an algorithm. Just like a real credit rating. This is the only way we can help people w/decisions like "Target vs Wal-Mart." Target isn't perfect, but in general it would score (e.g.) in the 600 range, while Wal-Mart is down around 450 (speculative examples). 
+ 
+If you were traveling through a small town and had to stop at the Wal-Mart, so be it. The trouble from a behavioral economics point of view is the lack of a counteracting nudge, reminding you that you want to do that as little as possible. This strategy of ongoing feedback and reinforcement, of closing the loop, is essential to the strategy. 
+
+Some will cringe at talk of credit ratings, marketing, social media, and apps. The argument is yes, we *are* using the master’s tools. We are turning the lemons we’ve been given (social alienation, the commodity society) into something better. Users control their own data and privacy with the app. Using it is not required.
+
+
+=== Is this the same as a social screen?
+
+http://www.socialfunds.com/media/index.cgi/screening.htm[Social screens] are well understood. But many people don't have money to invest. This app is more about daily economic decisions. Also, the concept of a "screen" is too binary. A screen is either pass or fail. We need a more nuanced approach, that aggregates various factors and accepts the fact that people's choices are often limited. Ongoing course corrections towards a preferred end are preferable to all-or-nothing perfection. When the perfection strategy fails (as it always does), demoralization and passivity sets in.
+
+== The app
+
+The app is an always-on coach to help you make better economic decisions, reflecting both your social values and the realities of your life. It will be available as mobile, Web, and as an API (for other applications to build off of). 
+
+
+
+=== Generating the analysis
+
+To generate the corporate social credit rating, we would use:
+
+* social screening data from investing firms 
+* political contribution data
+* voter scorecards
+* interlocking directorate data (http://www2.ucsc.edu/whorulesamerica/[whorulesamerica] & similar data sets)
+* legal (criminal & civil) and regulatory action data
+* corporate and investment firm ownership 
+* physical property ownership
+* text analytics on news sites & social media sentiment
+* mobile geolocation/geofencing
+* voluntarily released tax information
+* social and environmental audits
+
+The consumer would also have a social credit rating, driven by their economic interactions with the corporations. To derive their social credit, we would examine their transactional activity:
+
+* direct transactional data from their banks & credit cards (Quicken and many others have pioneered the techniques here)
+* contactless e-receipts
+* email (e.g. the way TripIt scans emails and harvests travel information)
+* scanned documents
+* aggregator sites such as Mint.com & Creditkarma
+
+=== Output/interface
+
+There would be several output channels for the app:
+
+* Mobile devices
+* Email
+* Web
+
+The app could be tuned for degree of intrusiveness. Everything from once a year audits of finances, to real time coaching based on geolocation or interactive examination of prospective economic activity.  
+
+
+== The business model
+
+The application would be advertising-supported, with a sliding scale based on credit rating.
+An organization's credit rating appears on their ad. Your local co-op probably can advertise for free. But we’ll take money from anyone, even Koch Enterprises with its score of 300. Anyone with a score that low pays proportionately, somewhere around ten thousand dollars an eyeball.
+
+=== Gamification
+
+Gamification is a potential interesting angle, requiring some careful thought and design. Game winners could be offered incentives from participating companies.
+
+image:https://github.com/CharlesTBetz/SocialCredit/blob/master/img/SocCred-game.png[game,300,,float="right"]
+
+
+== Strategic considerations
+
+We believe that the opportunity is asymmetric. There will probably be a right wing copycat. But it will not be as numerous or effective. The economic weight of this country's educated and progressive citizens will outweigh that of "Real Americans" who might actually favor supporting the Kochs financially. 
+
+== Tactics
+
+Start in a city...? Or nationally? 
+
+== References (deeper reading)
+
+* How to Measure Anything
+* Nudge
+
+need more on behavioral econ, neurosci, etc
+
+== Notes
+_Saw a Dykes to Watch Out For with Mo bemoaning how hard it was to keep track of what not to buy - searching for it_
+
+Possibility of introducing users to each other geographically -- some kind of meetup to discuss local initiatives, purchasing issues, start coops, etc?
+
+
+
+
  
 
