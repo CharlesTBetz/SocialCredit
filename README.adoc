@@ -4,7 +4,6 @@ This is a repository for discussing an idea tentatively titled Social Credit Rat
 
 "an always-on coach to help your daily economic decisions reflect both your social values and the realities of your life."
 
-The initial visioning and discussion is on the https://github.com/CharlesTBetz/SocialCredit/wiki[wiki], for ease of editing. 
 
 == What doesn't work:
 
@@ -150,7 +149,7 @@ To generate the corporate social credit rating, we would use:
 * social screening data from investing firms 
 * political contribution data
 * voter scorecards
-* interlocking directorate data (http://www2.ucsc.edu/whorulesamerica/[whorulesamerica] & similar data sets)
+* interlocking directorate data (https://littlesis.org/[littlesis.org], http://www2.ucsc.edu/whorulesamerica/[whorulesamerica] & similar data sets)
 * legal (criminal & civil) and regulatory action data
 * corporate and investment firm ownership 
 * physical property ownership
@@ -212,6 +211,7 @@ Possibility of introducing users to each other geographically -- some kind of me
 
 
 
+the https://github.com/CharlesTBetz/SocialCredit/wiki[wiki]
 
  
 
