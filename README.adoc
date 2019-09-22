@@ -149,7 +149,7 @@ To generate the corporate social credit rating, we would use:
 * voter scorecards
 * interlocking directorate data (https://littlesis.org/[littlesis.org], http://www2.ucsc.edu/whorulesamerica/[whorulesamerica] & similar data sets)
 * legal (criminal & civil) and regulatory action data
-* corporate and investment firm ownership 
+* corporate and investment firm ownership (e.g. investment in companies profiting from the penal system)
 * physical property ownership
 * text analytics on news sites & social media sentiment
 * mobile geolocation/geofencing
