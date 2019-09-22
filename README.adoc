@@ -21,8 +21,6 @@ _An always-on coach to help your daily economic decisions reflect your social va
 
 == Rationale
 
-In December 2016, progressive electoral politics is in crisis. The prospects for Democrats in 2018 are doubly grim: 1) it is a interim, non-presidential year which depresses Democratic turnout and 2) the Senate map is so bleak that a http://www.politico.com/story/2016/11/senate-democrats-2018-midterms-231516[filibuster-proof Republican Senate majority] is a realistic possibility. More broadly, the U.S. electoral system is structurally unsound, with a wide array of failures and weaknesses up to and including allegations of direct manipulation.
-
 Much has been written on the U.S. political situation and will not be repeated here. The starting point for this initiative is how we have reached this dire situation: as always, "follow the money." The book https://www.amazon.com/Dark-Money-History-Billionaires-Radical/dp/0385535597[Dark Money] is essential background reading. The policy preferences of the wealthiest Republican donors are http://www.salon.com/2016/12/11/big-republican-donors-are-even-more-extreme-than-their-party-and-they-drive-its-agenda/[considerably to the right of even mainstream Republicans]. In short, money buys power and the billions of dollars concentrated in the hands of extreme right interests led directly to the situation that we find ourselves today.
 
 One can argue whether increasing inequality and political tyranny are inevitable outcomes of capitalism, or just the variation of American capitalism we face. I'm agnostic on this topic. The pressing question is one of strategy and action. If right-wing billionaires are taking control of our political democracy, is there some way to reduce their economic base of power? 
